@@ -1,5 +1,5 @@
 - 👋 Ola, pode me chamar de Gabi
-- 👀 Eu estou interessada em aprender a desenvolver em HTML5, CSS3, JavaScript e Java
+- 👀 Eu estou interessada em aprender a desenvolver em HTML5, CSS3, PHP, JavaScript e Java
 - 🌱 Atualmente estou me aprofundando em HTML5, CSS3 e JavaScript
 - 💞️ Estou a disposição para trabalhar como desenvolvedora free lancer
 - 📫 Para me contactar, basta enviar um e-mail para gabibolaina@gmail.com
