@@ -3,7 +3,7 @@
 - 🌱 Estudos de back-end: C# e Java!
 - 👀 Um pouco de front-end: HTML5, CSS3, JavaScript.
 - 💞️ Estou a disposição, vamos trocar ideias, conversar, será um prazer. 
-- 📫 Para me contactar, basta enviar um e-mail para gabibolaina@gmail.com
+- 📫 Para me contactar, basta enviar um e-mail para gabibolaina@gmail.com ou me enviar uma mensagem no Linkedin: https://www.linkedin.com/in/gabriela-maria-rocha-bolaina-a048a6122/
 
 <!---
 GabiBolaina/GabiBolaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
