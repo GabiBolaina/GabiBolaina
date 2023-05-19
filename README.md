@@ -1,5 +1,5 @@
 - 👋 Ola, pode me chamar de Gabi
-- 🌱 Estudos aprofundados em BI e analises estatísticas, principalmente na área da saúde. Veja meu TCC, e verá um pouco do poder da analise de dados com Python!
+- 🌱 Estudos aprofundados em Ciência de dados, analises estatísticas e BI. Veja meu TCC, e verá um pouco do poder da analise de dados com Python!
 - 🌱 Estudos de back-end: C# e Java!
 - 👀 Um pouco de front-end: HTML5, CSS3, JavaScript.
 - 💞️ Estou a disposição, vamos trocar ideias, conversar, será um prazer. 
